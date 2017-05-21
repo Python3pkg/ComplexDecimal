@@ -1,6 +1,6 @@
 import decimal, math
 from decimal import Decimal
-import errors, constants
+from . import errors, constants
 
 """The number class
 Complex number Decimal class to keep precision while supporting complex numbers
